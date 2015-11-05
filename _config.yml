@@ -1,0 +1,23 @@
+name: NathanNeighbour
+favicon: null
+layout_spectrum: 0.6098731732927263
+typography_spectrum: 0.6203201510943472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4870300139300525
+  lightness: 0.7953541611786932
+  saturation: 0.31233661249279976
+  rhythmicContrast: 0.07781071774661541
+purpose: []
